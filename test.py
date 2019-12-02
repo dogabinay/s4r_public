@@ -8,8 +8,5 @@ print("no conflict")
 
 print("new collaborator")
 
-#buradan yeni bir branch açıyorum.
-#kodlara buradan devam ediyorum.
-
-
-# tekrar yeni bir branch
+print("Something New")
+print("1 satır daha")
