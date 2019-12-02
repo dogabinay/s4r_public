@@ -1,6 +1,7 @@
-q = 18
-z = 122
-c = 55
-list5 = ['a', 'b', 'c']
-print(z*q-c)
-print(list5)
+import numpy as np
+from scipy.integrate import odeint
+import matplotlib.pyplot as plt
+
+a = 1
+b = 12
+print(a*b)
