@@ -7,3 +7,6 @@ print("Bye bye love")
 print("no conflict")
 
 print("new collaborator")
+
+#buradan yeni bir branch açıyorum.
+#kodlara buradan devam ediyorum.
