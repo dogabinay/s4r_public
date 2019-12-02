@@ -8,4 +8,6 @@ print("Günaydın")
 
 print("İyi Akşamlar")
 
-
+a = 1
+b = 12
+print(a*b)
