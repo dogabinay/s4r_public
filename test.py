@@ -2,11 +2,10 @@ import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
 
-print("Bye bye love")
+print("Merhaba")
 
-print("no conflict")
+print("Günaydın")
 
-print("new collaborator")
+print("İyi Akşamlar")
 
-print("Something New")
-print("1 satır daha")
+
