@@ -1,3 +1,4 @@
+#gokhan tarafından yeni bir branch oluşturuldu.
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
