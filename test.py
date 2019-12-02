@@ -5,3 +5,5 @@ import matplotlib.pyplot as plt
 a = 1
 b = 12
 print(a*b)
+
+#gokhan tarafından yeni bir branch oluşturuldu.
